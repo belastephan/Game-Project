@@ -8,7 +8,7 @@ Even or Odd
 Completed
 
 ## Project Description
-The aims of this project is to develop a game in Python copying the famous game called even or odd which the user will be challenged by the computer to perform one or more matches if desired.
+The aim of this project is to develop a game in Python copying the famous game called even or odd which the user will be challenged by the computer to perform one or more matches if desired.
 
 ## The Steps
 This game was developed in Python language, using the variable concepts, function definitions, conditionals (if, elif, else), data processing etc.
